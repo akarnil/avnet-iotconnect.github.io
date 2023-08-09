@@ -18,4 +18,7 @@ To quickly jump to documentation, please use the links below:
 
 ### Renesas
 * [CK-RK65N](https://github.com/avnet-iotconnect/iotc-azurertos-sdk/tree/main/samples/ck-rx65n) (Blue Board)
-* [RX65N Cloud Kit](https://github.com/avnet-iotconnect/iotc-azurertos-sdk/tree/main/samples/rx65ncloudkit) (Breen Board)
+* [RX65N Cloud Kit](https://github.com/avnet-iotconnect/iotc-azurertos-sdk/tree/main/samples/rx65ncloudkit) (Green Board)
+
+### E2 Studio on Linux
+* [Guide on using E2 Studio on Linux](documentation/e2studio/e2studio_linux_guide.md)
